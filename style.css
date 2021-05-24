@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+}
+.warp{
+    margin:auto;
+}
+
+.main-header{
+}
+
+.main-header h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+.main-header img {
+    width: 100%;
+    
+}
+
+.main-introduct{
+}
+
+.main-introduct h2{
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+.main-introduct h4{ 
+    text-align: center; 
+    text-overflow: uppercase;
+    text color: #DDD;
+}
+
+
+.main-introduct p{
+    text-align: center;
+}
