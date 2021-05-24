@@ -15,10 +15,10 @@ body{
     color: black;
 }
 
-.main-header img {
-    width: 100%;
-    
-}
+.main-header figure img {
+    width: 40%;
+    float: relative;
+}   
 
 .main-introduct{
 }
